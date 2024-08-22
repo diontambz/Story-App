@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="list_item_spacing" tools:keep="@dimen/list_item_spacing">16dp</dimen>
+    <dimen name="list_item_spacing_half" tools:keep="@dimen/list_item_spacing_half">8dp</dimen>
+</resources>

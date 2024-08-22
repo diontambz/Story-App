@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Story App</string>
+    <string name="title">Sebarkan kisah hidupmu dengan Story App</string>
+    <string name="login_message">Selamat datang di StoryApp!</string>
+    <string name="register_message">Buat akun sekarang untuk berbagi cerita Anda!</string>
+    <string name="input_email"><font size="12">Email</font></string>
+    <string name="invalid_email">Format tidak valid</string>
+    <string name="input_pass"><font size="12">Password</font></string>
+    <string name="pass_length">Password minimal 8 karakter</string>
+    <string name="dont_have_account">Belum punya akun?</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="name_required">Nama wajib diisi</string>
+    <string name="check_input">Cek Masukkan</string>
+    <string name="name">Nama</string>
+    <string name="input_name"><font size="12">Masukkan Nama...</font></string>
+    <string name="preview">Pratinjau</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="logout">Keluar</string>
+    <string name="sign_up" tools:keep="@string/sign_up">Daftar</string>
+    <string name="already_have_an_account">Sudah punya akun?</string>
+    <string name="input_image_first">Masukkan Gambar!</string>
+    <string name="didnt_get_permission">Tidak medapatkan Izin</string>
+    <string name="setting">Pengaturan</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="maps">Maps Story</string>
+    <string name="story_from">Story dari : </string>
+    <string name="use_current_location">Gunakan lokasi saat ini</string>
+</resources>

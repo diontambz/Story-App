@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Story App</string>
+    <string name="title">Share your life story with the Story App</string>
+    <string name="login_message">Welcome to StoryApp!</string>
+    <string name="register_message">Make an account now to share your story!</string>
+    <string name="input_email"><font size="12">Email</font></string>
+    <string name="invalid_email">Invalid Format</string>
+    <string name="input_pass"><font size="12">Password</font></string>
+    <string name="pass_length">Password must be at least 8 characters</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="name_required">Name is required</string>
+    <string name="check_input">Check Your Input</string>
+    <string name="name">Name</string>
+    <string name="input_name"><font size="12">Input your Name here...</font></string>
+    <string name="preview">Preview</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="add_story">Add Story</string>
+    <string name="logout">Log Out</string>
+    <string name="sign_up" tools:keep="@string/sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="input_image_first">Input your image first!</string>
+    <string name="didnt_get_permission">Didn\'t get permission</string>
+    <string name="setting">Setting</string>
+    <string name="retry">Retry</string>
+    <string name="maps">Maps Story</string>
+    <string name="story_from">Story from : </string>
+    <string name="use_current_location">Use current location</string>
+</resources>
